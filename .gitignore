@@ -1,0 +1,13 @@
+# Arduino build output
+build/
+*.hex
+*.elf
+
+# Secrets (WiFi credentials once the ESP8266 goes in)
+secrets.h
+*.env
+
+# OS noise
+Thumbs.db
+desktop.ini
+.DS_Store
